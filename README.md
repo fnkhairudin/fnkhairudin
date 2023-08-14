@@ -9,7 +9,7 @@ analyzing data, identifying solutions, and logic capability. I also learned pyth
 
 - [Python Fundamental](https://github.com/fnkhairudin/YellowPages): A simple program to record companies un-confidential data based on CURD systems (Create, Update, Read, Delete)
 - [Customer Supermarket Analysis](https://github.com/fnkhairudin/Customer-Supermarket-Analysis): Design marketing strategies aimed at customer segmentation based on data analysis.
-- [Hotel Booking Cancellation Prediction](https://github.com/fnkhairudin/Hotel-Booking-Demand): Create a machine learning model that can redict whether a hotel customer will cancel an order or not and using balanced accuracy as an evaluation metric.
+- [Hotel Booking Cancellation Prediction](https://github.com/fnkhairudin/Hotel-Booking-Demand): Create a machine learning model that can predict whether a hotel customer will cancel an order or not and using balanced accuracy as an evaluation metric.
 
 ## 🛠️ Skills
 
