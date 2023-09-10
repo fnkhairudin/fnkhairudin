@@ -10,6 +10,7 @@ analyzing data, identifying solutions, and logic capability. I also learned pyth
 - [Python Fundamental](https://github.com/fnkhairudin/YellowPages): A simple program to record companies un-confidential data based on CURD systems (Create, Update, Read, Delete)
 - [Customer Supermarket Analysis](https://github.com/fnkhairudin/Customer-Supermarket-Analysis): Design marketing strategies aimed at customer segmentation based on data analysis.
 - [Hotel Booking Cancellation Prediction](https://github.com/fnkhairudin/Hotel-Booking-Demand): Create a machine learning model that can predict whether a hotel customer will cancel an order or not. I'm using balanced accuracy as an evaluation metric due to imbalance label and also because of the importance of both positive and negative classes.
+- [Permeability of Reservoir Rock Prediction](https://github.com/fnkhairudin/Permeability-Reservoir-Rock-Prediction/tree/main): Build a machine learning model for predicting permeability reservoir rock based on porosity and connate water saturation (Swc)
 
 ## 🛠️ Skills
 
