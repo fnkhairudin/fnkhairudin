@@ -11,6 +11,7 @@ analyzing data, identifying solutions, and logic capability. I also learned pyth
 - [Customer Supermarket Analysis](https://github.com/fnkhairudin/Customer-Supermarket-Analysis): Design marketing strategies aimed at customer segmentation based on data analysis.
 - [Hotel Booking Cancellation Prediction](https://github.com/fnkhairudin/Hotel-Booking-Demand): Create a machine learning model that can predict whether a hotel customer will cancel an order or not. I'm using balanced accuracy as an evaluation metric due to imbalance label and also because of the importance of both positive and negative classes.
 - [Permeability of Reservoir Rock Prediction](https://github.com/fnkhairudin/Permeability-Reservoir-Rock-Prediction/tree/main): Build a machine learning model for predicting permeability reservoir rock based on porosity and connate water saturation (Swc)
+- [Artificial Intelligence (AI) Job Roles Salary Prediction](https://github.com/fnkhairudin/Data-Scientist-Salary-Prediction): Build a model and streamlit web app for predicting data scienctist job salary based on several features such as experience level, employment type, job position, job scope, etc.
 
 ## 🛠️ Skills
 
@@ -20,7 +21,8 @@ analyzing data, identifying solutions, and logic capability. I also learned pyth
 ![PostgresSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📈 Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 Links
 
