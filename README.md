@@ -16,6 +16,7 @@ analyzing data, identifying solutions, and logic capability. I also learned pyth
 - [Hotel Booking Cancellation Prediction](https://github.com/fnkhairudin/Hotel-Booking-Demand): Create a machine learning model that can predict whether a hotel customer will cancel an order or not. I'm using balanced accuracy as an evaluation metric due to imbalance label and also because of the importance of both positive and negative classes.
 - [Permeability of Reservoir Rock Prediction](https://github.com/fnkhairudin/Permeability-Reservoir-Rock-Prediction/tree/main): Build a machine learning model for predicting permeability reservoir rock based on porosity and connate water saturation (Swc) and also deploy model in streamlit.
 - [Artificial Intelligence (AI) Job Roles Salary Prediction](https://github.com/fnkhairudin/Data-Scientist-Salary-Prediction): Build a model and streamlit web app for predicting data scienctist job salary based on several features such as experience level, employment type, job position, job scope, etc.
+- [Credit Card Clustering Customer Segmentation](https://github.com/PurwadhikaDev/BetaGroup_JC_DS_FT_Jogja_01_FinalProject): Create an unsupervised machine learning model with the aim of knowing the hidden patterns of customer transaction behavior in order to facilitate the marketing team to provide the right promotional campaigns.
 
 ## 🛠️ Skills
 
