@@ -6,7 +6,6 @@
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=fnkhairudin" alt="fnkhairudin"/>       
     <a href="https://github.com/fnkhairudin/fnkhairudin/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/fnkhairudin/fnkhairudin" /></a>
-    <img src="https://badges.pufler.dev/gists/fnkhairudin" alt="fnkhairudin"/>
 </p>
 
 ## 🚀 About Me
