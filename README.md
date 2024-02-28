@@ -1,4 +1,13 @@
-# Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+<h2 align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Faisal Nur Khairudin!
+    <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
+</h2>
+
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=fnkhairudin" alt="fnkhairudin"/>       
+    <a href="https://github.com/fnkhairudin/fnkhairudin/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/fnkhairudin/fnkhairudin" /></a>
+    <img src="https://badges.pufler.dev/gists/fnkhairudin" alt="fnkhairudin"/>
+</p>
 
 ## 🚀 About Me
 
