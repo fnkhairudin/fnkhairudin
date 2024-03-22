@@ -1,16 +1,24 @@
 <h2 align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Faisal Nur Khairudin!
+    <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
 </h2>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=fnkhairudin" alt="fnkhairudin"/>       
+    <img src="https://komarev.com/ghpvc/?username=fnkhairudin" alt="fnkhairudin"/>
     <a href="https://github.com/fnkhairudin/fnkhairudin/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/fnkhairudin/fnkhairudin" /></a>
+    <a href="https://github.com/fnkhairudin?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/fnkhairudin?color=4C1&logo=github"></a>
+    <a href="https://github.com/fnkhairudin" target="_blank"><img alt="fnkhairudin" src="https://badges.pufler.dev/visits/fnkhairudin/fnkhairudin?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/fnkhairudin?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/fnkhairudin?color=4C1&logo=github"></a>
+    <a href="https://github.com/fnkhairudin/fnkhairudin" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/fnkhairudin/fnkhairudin?label=Profile%20update&style=fflat-square"></a>
+    <a href="https://github.com/fnkhairudin" target="_blank"><img alt="fnkhairudin" src="https://badges.pufler.dev/visits/fnkhairudin/fnkhairudin?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 </p>
 
-## 🚀 About Me
+<h3 align="left">🚀 Biography:</h3>
 
-🎓 I have a background in petroleum engineering degree from the University of Pembangunan Nasional “Veteran” Yogyakarta (Indonesia). Skilled at
-analyzing data, identifying solutions, and logic capability. I also learned python programming language, starting from data analysis both using **python** and **MySQL**, data visualization using both python and **tableau**, and then creating **machine learning** models.
+- 🏢 Bachelor's Degree in Engineering at **University of Pembangunan Nasional "Veteran" Yogyakarta**
+- 👨‍💻 I’m currently working on **PT Pertamina Hulu energi**
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Deep%20Learning-%2303afff">, <img src="">, and <img src="https://img.shields.io/badge/MLOps-%2358fc8a">
+
 
 ## ✏️ Projects
 ### Python Fundamentals
