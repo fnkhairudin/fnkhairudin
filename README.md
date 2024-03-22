@@ -16,7 +16,7 @@
 
 - 🏢 Bachelor's Degree in Engineering at **University of Pembangunan Nasional "Veteran" Yogyakarta**
 - 👨‍💻 I’m currently working on **PT Pertamina Hulu energi**
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Deep%20Learning-%2303afff">, <img src="">, and <img src="https://img.shields.io/badge/MLOps-%2358fc8a">
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Deep%20Learning-%2303afff">, <img src="https://img.shields.io/badge/NLP-%23fce062">, and <img src="https://img.shields.io/badge/MLOps-%2358fc8a">
 
 
 ## ✏️ Projects
