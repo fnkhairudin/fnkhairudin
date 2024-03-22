@@ -7,9 +7,7 @@
     <a href="https://github.com/fnkhairudin/fnkhairudin/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/fnkhairudin/fnkhairudin" /></a>
     <a href="https://github.com/fnkhairudin?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/fnkhairudin?color=4C1&logo=github"></a>
     <a href="https://github.com/fnkhairudin" target="_blank"><img alt="fnkhairudin" src="https://badges.pufler.dev/visits/fnkhairudin/fnkhairudin?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <a href="https://github.com/fnkhairudin?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/fnkhairudin?color=4C1&logo=github"></a>
     <a href="https://github.com/fnkhairudin/fnkhairudin" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/fnkhairudin/fnkhairudin?label=Profile%20update&style=fflat-square"></a>
-    <a href="https://github.com/fnkhairudin" target="_blank"><img alt="fnkhairudin" src="https://badges.pufler.dev/visits/fnkhairudin/fnkhairudin?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 </p>
 
 <h3 align="left">🚀 Biography:</h3>
