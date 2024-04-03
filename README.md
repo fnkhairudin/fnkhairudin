@@ -24,25 +24,23 @@
 
 ### Data Visualization
 <details>
-<summary><samp>&#9776;</samp> Click for List of Machine Learning Projects <i>(click to expand) 🔗 </i> </summary>
+<summary><samp>&#9776;</samp> Click for List of Data Visualization Projects <i>(click to expand) 🔗 </i> </summary>
 
-| No | Title | Description | Link |
-| 1 | Supermarket Customer Analysis | Design marketing strategies aimed at customer segmentation based on data analysis | [Supermarket Customer Analysis](https://github.com/fnkhairudin/Customer-Supermarket-Analysis) |
-| 2 | SEOR WATCH web-based application | An application to **monitor Waterflood and Enhanced Oil Recovery (EOR) activities** both being implemented and to be implemented throughout **Pertamina Raya Indonesia** in real-time. The objectives of making this application include **reducing monitoring meetings** between Subholding, Regional, and Zone from 4x (8 weeks) to 1x (2 weeks) meeting in 1 year, workers are more efficient in **spending time on main work**, and **sharing information** on success stories, lessons learned, and ways out related to projects that are being or have been worked on | Confidential Repository |
-
-<details>
+|No|    Title   |   Description    |   Link   |
+|--|-----------|-------------------|--------|
+|1| Supermarket Customer Analysis | Design marketing strategies aimed at customer segmentation based on data analysis    |   [Supermarket Customer Analysis](https://github.com/fnkhairudin/Customer-Supermarket-Analysis)  |
+|2| SEOR WATCH web-based application |    An application to **monitor Waterflood and Enhanced Oil Recovery (EOR) activities** both being implemented and to be implemented throughout **Pertamina Raya Indonesia** in real-time. The objectives of making this application include **reducing monitoring meetings** between Subholding, Regional, and Zone from 4x (8 weeks) to 1x (2 weeks) meeting in 1 year, workers are more efficient in **spending time on main work**, and **sharing information** on success stories, lessons learned, and ways out related to projects that are being or have been worked on |    Confidential Repository |
 
 ### Machine Learning
 <details>
 <summary><samp>&#9776;</samp> Click for List of Machine Learning Projects <i>(click to expand) 🔗 </i> </summary>
 
-| No | Title | Description | Link |
-| 1 | Hotel Booking Cancellation Prediction | Machine learning model that can predict whether a hotel customer will cancel an order or not when they make reservation. Use **balanced accuracy** as an evaluation metric due to imbalance label and the importance of both positive and negative classes | [Hotel Booking Cancellation](https://github.com/fnkhairudin/Hotel-Booking-Demand) |
-| 2 | Credit Card Clustering Customer Segmentation | Machine learning model with the aim of knowing the hidden patterns of customer transaction behavior in order to facilitate the marketing team to provide the right promotional campaigns. | [Credit Card Segmentation](https://github.com/PurwadhikaDev/BetaGroup_JC_DS_FT_Jogja_01_FinalProject) |
-| 3 | Artificial Intelligence (AI) Job Roles Salary Prediction | Create a machine learning model and deploy the model in streamlit for predicting AI job salary based on several features such as experience level, employment type, job position, job scope, etc | [Artificial Intelligence (AI) Job Roles Salary](https://github.com/fnkhairudin/Data-Scientist-Salary-Prediction) |
-| 4 | Permeability of Reservoir Rock Prediction | Build a machine learning model for predicting permeability reservoir rock based on porosity and connate water saturation (Swc) and also deploy model in streamlit | [Permeability of Reservoir Rock](https://github.com/fnkhairudin/Permeability-Reservoir-Rock-Prediction/tree/main) |
-
-<details>
+|No|    Title   |   Description |   Link    |
+|--|-----------|-------------------|--------|
+|1| Hotel Booking Cancellation Prediction | Machine learning model that can predict whether a hotel customer will cancel an order or not when they make reservation. Use **balanced accuracy** as an evaluation metric due to imbalance label and the importance of both positive and negative classes   |  [Hotel Booking Cancellation](https://github.com/fnkhairudin/Hotel-Booking-Demand) |
+|2| Credit Card Clustering Customer Segmentation |    Machine learning model with the aim of knowing the hidden patterns of customer transaction behavior in order to facilitate the marketing team to provide the right promotional campaigns  |  [Credit Card Segmentation](https://github.com/PurwadhikaDev/BetaGroup_JC_DS_FT_Jogja_01_FinalProject) |
+|3| Artificial Intelligence (AI) Job Roles Salary Prediction |    Create a machine learning model and deploy the model in streamlit for predicting AI job salary based on several features such as experience level, employment type, job position, job scope, etc    |   [Artificial Intelligence (AI) Job Roles Salary](https://github.com/fnkhairudin/Data-Scientist-Salary-Prediction)   |
+|4| Permeability of Reservoir Rock Prediction    |   Build a machine learning model for predicting permeability reservoir rock based on porosity and connate water saturation (Swc) and also deploy model in streamlit  | [Permeability of Reservoir Rock](https://github.com/fnkhairudin/Permeability-Reservoir-Rock-Prediction/tree/main)    |
 
 ## 🛠️ Skills
 
