@@ -23,19 +23,13 @@
 - [Yellow Pages](https://github.com/fnkhairudin/YellowPages): A simple program to record companies un-confidential data based on CURD systems (Create, Update, Read, and Delete). I also provide a log systems, so that the program can track any changes, such as what and when they occurred.
 
 ### Data Visualization
-<details>
-<summary><samp>&#9776;</samp> Click for List of Data Visualization Projects <i>(click to expand) 🔗 </i> </summary>
 
 |No|    Title   |   Description    |   Link   |
 |--|-----------|-------------------|--------|
 |1| Supermarket Customer Analysis | Design marketing strategies aimed at customer segmentation based on data analysis    |   [Supermarket Customer Analysis](https://github.com/fnkhairudin/Customer-Supermarket-Analysis)  |
 |2| SEOR WATCH web-based application |    An application to **monitor Waterflood and Enhanced Oil Recovery (EOR) activities** both being implemented and to be implemented throughout **Pertamina Raya Indonesia** in real-time. The objectives of making this application include **reducing monitoring meetings** between Subholding, Regional, and Zone from 4x (8 weeks) to 1x (2 weeks) meeting in 1 year, workers are more efficient in **spending time on main work**, and **sharing information** on success stories, lessons learned, and ways out related to projects that are being or have been worked on |    Confidential Repository |
 
-<br>
-
 ### Machine Learning
-<details>
-<summary><samp>&#9776;</samp> Click for List of Machine Learning Projects <i>(click to expand) 🔗 </i> </summary>
 
 |No|    Title   |   Description |   Link    |
 |--|-----------|-------------------|--------|
