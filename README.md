@@ -30,7 +30,7 @@
 | 1 | Supermarket Customer Analysis | Design marketing strategies aimed at customer segmentation based on data analysis | [Supermarket Customer Analysis](https://github.com/fnkhairudin/Customer-Supermarket-Analysis) |
 | 2 | SEOR WATCH web-based application | An application to **monitor Waterflood and Enhanced Oil Recovery (EOR) activities** both being implemented and to be implemented throughout **Pertamina Raya Indonesia** in real-time. The objectives of making this application include **reducing monitoring meetings** between Subholding, Regional, and Zone from 4x (8 weeks) to 1x (2 weeks) meeting in 1 year, workers are more efficient in **spending time on main work**, and **sharing information** on success stories, lessons learned, and ways out related to projects that are being or have been worked on | Confidential Repository |
 
-<deetails>
+<details>
 
 ### Machine Learning
 <details>
@@ -42,16 +42,9 @@
 | 3 | Artificial Intelligence (AI) Job Roles Salary Prediction | Create a machine learning model and deploy the model in streamlit for predicting AI job salary based on several features such as experience level, employment type, job position, job scope, etc | [Artificial Intelligence (AI) Job Roles Salary](https://github.com/fnkhairudin/Data-Scientist-Salary-Prediction) |
 | 4 | Permeability of Reservoir Rock Prediction | Build a machine learning model for predicting permeability reservoir rock based on porosity and connate water saturation (Swc) and also deploy model in streamlit | [Permeability of Reservoir Rock](https://github.com/fnkhairudin/Permeability-Reservoir-Rock-Prediction/tree/main) |
 
-<deetails>
+<details>
 
 ## 🛠️ Skills
-
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgresSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="center">
     <a href="https://github.com/fnkhairudin?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
