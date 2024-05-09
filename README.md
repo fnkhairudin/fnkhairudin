@@ -22,7 +22,7 @@
 ### Python Fundamentals
 |No|    Title   |   Description    |   Link   |
 |--|-----------|-------------------|--------|
-|1| Yellow Pages |  simple program to record companies un-confidential data based on CURD systems (Create, Update, Read, and Delete). I also provide a log systems, so that the program can track any changes, such as what and when they occurred.    |   [Yellow Pages](https://github.com/fnkhairudin/YellowPages)  |
+|1| Yellow Pages |  Simple program to record companies un-confidential data based on CURD systems (Create, Update, Read, and Delete). I also provide a log systems, so that the program can track any changes, such as what and when they occurred.    |   [Yellow Pages](https://github.com/fnkhairudin/YellowPages)  |
 
 ### Data Visualization
 
